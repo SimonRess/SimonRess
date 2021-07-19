@@ -2,7 +2,7 @@
 
 I am a PhD candidate at the chairs of Comparative Politics & Social Science Data Analysis, Ruhr-Universität Bochum. My main research interests are labour market policies and their effects on individual health and interest groups and lobbyism. I have published articles on interest groups and prevention policies.
 
-# My personal Website: https://www.simon-ress.de/
+### My personal Website: https://www.simon-ress.de/
 
 
 - 🔭 I’m currently working on ...
