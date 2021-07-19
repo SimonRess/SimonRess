@@ -1,4 +1,4 @@
-- Right now moving from the gitlab instance of my university (https://git.noc.ruhr-uni-bochum.de/resssis4) to here -
+[Right now moving from the gitlab instance of my university (https://git.noc.ruhr-uni-bochum.de/resssis4) to here]
 
 ### My personal Website: https://www.simon-ress.de/
 
